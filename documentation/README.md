@@ -1,10 +1,13 @@
 # Documentation Technique
 
 ## Notes Techniques
-Documentation des apprentissages et concepts clés
+Documentation des apprentissages et concepts clÃ©s
 
 ## Articles
-Liste des articles techniques rédigés
+Liste des articles techniques rÃ©digÃ©s
 
 ## Certifications
-Suivi des certifications obtenues
+Janvier 2025 - STANFORD AI IN HEALTHCARE
+Decembre 2024 - IBM DATA SCIENCE
+Decembre 2024 - IBM AI ENGINEERING WITH LLM SPECIALIZATION
+
